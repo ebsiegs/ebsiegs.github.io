@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Projects
 
-You can use the [editor on GitHub](https://github.com/ebsiegs/ebsiegs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[Classifying Passive vs. Active Revenge in Related Subreddits using NLP](https://github.com/ebsiegs/subreddit_nlp.git)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project uses and evaluates a variety of classification models including Logistic Regression, regularized Lasso Logistic Regression, Random Forest, and Multinomial Naïve Bayes in order to model the distinction between active and passive revenge in the related subreddits: r/MaliciousCompliance, r/ProRevenge, and r/pettyrevenge.
 
-### Markdown
+## Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Employing a Suite of Machine-Learning Algorithms in a Holistic Approach to Trouble-Stage Recognition and Failure Diagnostics.
+publication description] SPE 204145 (2021) (https://onepetro.org/SPEHFTC/proceedings-abstract/21HFTC/1-21HFTC/461792)
 
 ```markdown
 Syntax highlighted code block
