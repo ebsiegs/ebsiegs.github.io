@@ -10,8 +10,7 @@
 
 ## Publications
 
-[Employing a Suite of Machine-Learning Algorithms in a Holistic Approach to Trouble-Stage Recognition and Failure Diagnostics.
-publication description](https://onepetro.org/SPEHFTC/proceedings-abstract/21HFTC/1-21HFTC/461792) SPE 204145 (2021)
+[Employing a Suite of Machine-Learning Algorithms in a Holistic Approach to Trouble-Stage Recognition and Failure Diagnostics.](https://onepetro.org/SPEHFTC/proceedings-abstract/21HFTC/1-21HFTC/461792) SPE 204145 (2021)
 
 ## Presentations
 
