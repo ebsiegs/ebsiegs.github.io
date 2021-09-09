@@ -1,12 +1,9 @@
 ## Projects
 
-[- Classifying Passive vs. Active Revenge in Related Subreddits using NLP](https://github.com/ebsiegs/subreddit_nlp.git)
+[Classifying Passive vs. Active Revenge in Related Subreddits using NLP](https://github.com/ebsiegs/subreddit_nlp.git)
 
 *This project uses and evaluates a variety of classification models including Logistic Regression, regularized Lasso Logistic Regression, Random Forest, and Multinomial Naïve Bayes in order to model the distinction between active and passive revenge in the related subreddits: r/MaliciousCompliance, r/ProRevenge, and r/pettyrevenge.*
 
-**- Predicting Ames, Iowa Real Estate Prices with Linear Regression**
-
-**- Analysis of Standardized Tests for Reevaluating College Admissions Criteria**
 
 ## Publications
 
