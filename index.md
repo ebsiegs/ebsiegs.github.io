@@ -1,4 +1,8 @@
 # Projects
+## [Image Classification of Tumors in Mammograms](https://github.com/ebsiegs/tumor_image_classification.git)
+*For this group project, my collaborators and I utilized convolutional neural networks to build a Breast Cancer tumor detection model from mammogram images.
+![ddsm_model](images/ddsm_model.png)
+
 ## [Classifying Passive vs. Active Revenge in Related Subreddits using NLP](https://ebsiegs.medium.com/text-classification-of-revenge-related-subreddits-using-nlp-f96847ff4acf)
 *This project uses and evaluates a variety of classification models including Logistic Regression, regularized Lasso Logistic Regression, Random Forest, and Multinomial Naïve Bayes in order to model the distinction between active and passive revenge in the related subreddits: r/MaliciousCompliance, r/ProRevenge, and r/pettyrevenge.*
 [Full Project Repo on GitHub](https://github.com/ebsiegs/subreddit_nlp.git)
