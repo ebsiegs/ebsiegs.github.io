@@ -9,7 +9,7 @@
 
 ![common words](images/common_words.jpg)
 
-## [Predicting Ames, Iowa Real Estate Prices with Linear Regression](https://ebsiegs.medium.com/tackling-a-home-price-prediction-regression-problem-b328ad348022)
+## [Predicting Ames, Iowa Real Estate Prices with Linear Regression](/projects/housing_price_prediction.md)
 *In this project I built a regression model that predicts home sale prices in Ames, Iowa given an input file with 80 columns of different home features and about 2,050 homes. I set out to try and identify what those major factors are for homes on the market in Ames, in addition to predicting Sale Price for those homes.*
 [Full Project Repo on GitHub](https://github.com/ebsiegs/housing_price_prediction)
 
