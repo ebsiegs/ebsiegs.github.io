@@ -4,7 +4,7 @@
 *This project utilizes K-Means cluster analysis for customer segmentation and targeted marketing outreach for Starbucks.*
 [Full Project Repo on GitHub](https://github.com/ebsiegs/starbucks_customer_segmentation)
 
-![clusters](images/1st_2nd_feature_space.png) ![rfm](images/rfm_clusters.png)
+![clusters](images/1st_2nd_feature_space.png)![rfm](images/reward_cluster.png)
 
 ## [Image Classification of Tumors in Mammograms](/projects/tumor_classification.md)
 *For this group project, my collaborators and I utilized convolutional neural networks to build multiple Breast Cancer tumor detection models from two different mammogram datasets.*
