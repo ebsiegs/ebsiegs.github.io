@@ -1,7 +1,7 @@
 # Projects
 
 ## [Starbucks Customer Segmentation using K-Means Clustering](/projects/starbucks_customer_segmentation.md)
-*For this group project, my collaborators and I utilized convolutional neural networks to build multiple Breast Cancer tumor detection models from two different mammogram datasets.*
+*This project utilizes K-Means cluster analysis for customer segmentation and targeted marketing outreach for Starbucks.*
 [Full Project Repo on GitHub](https://github.com/ebsiegs/starbucks_customer_segmentation)
 
 ![ddsm_model](images/1st_2nd_feature_space.png)
