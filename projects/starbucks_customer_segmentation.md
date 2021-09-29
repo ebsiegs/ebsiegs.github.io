@@ -14,7 +14,7 @@ For this project I used [Starbucks customer data](https://www.kaggle.com/ihormul
 
 ### Part 1: Overview, Data Cleaning & EDA
 
-[1-Overview_Cleaning_&_EDA.ipynb](code/1-Overview_Cleaning_&_EDA.ipynb)
+[1-Overview_Cleaning_&_EDA.ipynb](https://github.com/ebsiegs/starbucks_customer_segmentation/tree/master/code/1-Overview_Cleaning_&_EDA.ipynb)
 
 This notebook gives an overview of the project, data cleaning and quality control of each of the 3 datasets, and initial exporatory data analysis (EDA).
 
@@ -22,19 +22,19 @@ This notebook gives an overview of the project, data cleaning and quality contro
 
 ### Part 2: Dataset Merging & RFM Metrics
 
-[2-Merging_&_RFM_Metrics.ipynb](code/2-Merging_&_RFM_Metrics.ipynb)
+[2-Merging_&_RFM_Metrics.ipynb](https://github.com/ebsiegs/starbucks_customer_segmentation/tree/master/code/2-Merging_&_RFM_Metrics.ipynb)
 
 This notebook includes more data preprocessing, steps taken to aggregate and merge the datasets, as well as RFM (Recency, Frequency, and Monetary) Metrics calculated from the data.
 
 ### Part 3: Cluster Analysis
 
-[3-Unsupervised_Learning_&_Clustering.ipynb](code/3-Unsupervised_Learning_&_Clustering.ipynb)
+[3-Unsupervised_Learning_&_Clustering.ipynb](https://github.com/ebsiegs/starbucks_customer_segmentation/tree/master/code/3-Unsupervised_Learning_&_Clustering.ipynb)
 
 This notebook includes dimensionality reduction with PCA, analysis done to find the number of clusters (k) for K-Means cluster analysis, as well as an attempt at DBSCAN that proved to be not a good application with this dataset.
 
 ### Part 4: Post Hoc Analysis and Customer Insights
 
-[4-Post_Hoc_Analysis_&_Conclusions.ipynb](code/4-Post_Hoc_Analysis_&_Conclusions.ipynb)
+[4-Post_Hoc_Analysis_&_Conclusions.ipynb](https://github.com/ebsiegs/starbucks_customer_segmentation/tree/master/code/4-Post_Hoc_Analysis_&_Conclusions.ipynb)
 
 This notebook includes a post hoc analysis of the 6 clusters in order to build customer personas for each of the segments to be used for marketing and promotional purposes.
 
