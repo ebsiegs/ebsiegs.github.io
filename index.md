@@ -4,7 +4,7 @@
 *For this group project, my collaborators and I utilized convolutional neural networks to build multiple Breast Cancer tumor detection models from two different mammogram datasets.*
 [Full Project Repo on GitHub](https://github.com/ebsiegs/starbucks_customer_segmentation)
 
-![ddsm_model](images/ddsm_model.png)
+![ddsm_model](images/1st_2nd_feature_space.png)
 
 ## [Image Classification of Tumors in Mammograms](/projects/tumor_classification.md)
 *For this group project, my collaborators and I utilized convolutional neural networks to build multiple Breast Cancer tumor detection models from two different mammogram datasets.*
