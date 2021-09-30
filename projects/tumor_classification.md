@@ -13,28 +13,28 @@ For this project, we used 2 different mammogram datasets of differing sizes and 
 ### Data Sourcing, Cleaning & EDA
 
 #### MIAS Dataset
-[Part_1A_MIAS_Dataset_Cleaning_&_EDA.ipynb](code/Part_1A_MIAS_Dataset_Cleaning_&_EDA.ipynb)
+[Part_1A_MIAS_Dataset_Cleaning_&_EDA.ipynb](https://github.com/ebsiegs/tumor_image_classification/blob/master/code/Part_1A_MIAS_Dataset_Cleaning_&_EDA.ipynb)
 
-![mias_mask](images/mias_mask.png)
+![mias_mask](https://github.com/ebsiegs/tumor_image_classification/blob/master/images/mias_mask.png)
 
 #### DDSM Datasets
-[Part_2A_DDSM_Dataset_Cleaning_&_EDA.ipynb](code/Part_2A_DDSM_Dataset_Cleaning_&_EDA.ipynb)
+[Part_2A_DDSM_Dataset_Cleaning_&_EDA.ipynb](https://github.com/ebsiegs/tumor_image_classification/blob/master/code/Part_2A_DDSM_Dataset_Cleaning_&_EDA.ipynb)
 
-![density_subtlety](images/ddsm_density_subtlety.png)
+![density_subtlety](https://github.com/ebsiegs/tumor_image_classification/blob/master/images/ddsm_density_subtlety.png)
 
 ### Modeling & Analysis
 #### MIAS Modeling
-[Part_1B_MIAS_Base_CNN_Modeling.ipynb](code/Part_1B_MIAS_Base_CNN_Modeling.ipynb)
-[Part_1C_MIAS_Mask_R-CNN_Modeling.ipynb](code/Part_1C_MIAS_Mask_R-CNN_Modeling.ipynb)
+[Part_1B_MIAS_Base_CNN_Modeling.ipynb](https://github.com/ebsiegs/tumor_image_classification/blob/master/code/Part_1B_MIAS_Base_CNN_Modeling.ipynb)
+[Part_1C_MIAS_Mask_R-CNN_Modeling.ipynb](https://github.com/ebsiegs/tumor_image_classification/blob/master/code/Part_1C_MIAS_Mask_R-CNN_Modeling.ipynb)
 
-![mias_model](images/mias_model.png)
+![mias_model](https://github.com/ebsiegs/tumor_image_classification/blob/master/images/mias_model.png)
 
 #### DDSM Modeling
-[Part_2B_DDSM_Modeling_&_Conclusions.ipynb](code/Part_1C_MIAS_Mask_R-CNN_Modeling.ipynb)
+[Part_2B_DDSM_Modeling_&_Conclusions.ipynb](https://github.com/ebsiegs/tumor_image_classification/blob/master/code/Part_1C_MIAS_Mask_R-CNN_Modeling.ipynb)
 
 Beat Baseline with 92-93% accuracy on Test and Validation datasets
 
-![ddsm_model](images/ddsm_model.png)
+![ddsm_model](https://github.com/ebsiegs/tumor_image_classification/blob/master/images/ddsm_model.png)
 
 ## Conclusions & Recommendations
 - Using ML for tumor/no tumor image classification is a useful approach, however, it is not without its challenges!
