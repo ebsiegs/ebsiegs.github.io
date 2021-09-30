@@ -15,7 +15,7 @@ Customer segmentation is the process of dividing customers into groups based on 
 
 ### Part 1: Overview, Data Cleaning & EDA
 
-[1-Overview_Cleaning_&_EDA.ipynb](https://github.com/ebsiegs/starbucks_customer_segmentation/blob/master/code/1-Overview_Cleaning_&_EDA.ipynb)
+[1-Overview_Cleaning_&_EDA.ipynb](https://github.com/ebsiegs/starbucks_customer_segmentation/blob/master/code/1-Overview_Cleaning_%26_EDA.ipynb)
 
 This notebook gives an overview of the project, data cleaning of each of the 3 datasets, and initial exporatory data analysis (EDA).
 
@@ -23,20 +23,20 @@ This notebook gives an overview of the project, data cleaning of each of the 3 d
 
 ### Part 2: Dataset Merging & RFM Metrics
 
-[2-More_Preprocessing_Merging_&_RFM_Metrics.ipynb](https://github.com/ebsiegs/starbucks_customer_segmentation/blob/master/code/2-More_Preprocessing_Merging_&_RFM_Metrics.ipynb)
+[2-More_Preprocessing_Merging_&_RFM_Metrics.ipynb](https://github.com/ebsiegs/starbucks_customer_segmentation/blob/master/code/2-More_Preprocessing_Merging_%26_RFM_Metrics.ipynb)
 
 This notebook includes more data preprocessing, steps taken to aggregate and merge the datasets, as well as RFM (Recency, Frequency, and Monetary) Scores calculated from the data.
 
 ### Part 3: Cluster Analysis
 
-[3-Unsupervised_Learning_&_Clustering.ipynb](https://github.com/ebsiegs/starbucks_customer_segmentation/blob/master/code/3-Unsupervised_Learning_&_Clustering.ipynb)
+[3-Unsupervised_Learning_&_Clustering.ipynb](https://github.com/ebsiegs/starbucks_customer_segmentation/blob/master/code/3-Unsupervised_Learning_%26_Clustering.ipynb)
 
 This notebook includes dimensionality reduction with PCA, analysis done to find the number of clusters (k) for K-Means cluster analysis, as well as an attempt at DBSCAN that proved to be not a good application with this dataset.
 ![1st_2nd_feature_space](https://github.com/ebsiegs/starbucks_customer_segmentation/blob/master/images/1st_2nd_feature_space.png)
 
 ### Part 4: Post Hoc Analysis and Customer Insights
 
-[4-Post_Hoc_Analysis_&_Conclusions.ipynb](https://github.com/ebsiegs/starbucks_customer_segmentation/blob/master/code/4-Post_Hoc_Analysis_&_Conclusions.ipynb)
+[4-Post_Hoc_Analysis_&_Conclusions.ipynb](https://github.com/ebsiegs/starbucks_customer_segmentation/blob/master/code/4-Post_Hoc_Analysis_%26_Conclusions.ipynb)
 
 This notebook includes a post hoc analysis of the 6 clusters in order to build customer personas for each of the segments to be used for marketing and promotional purposes.
 ![rfm_clusters.png](https://github.com/ebsiegs/starbucks_customer_segmentation/blob/master/images/rfm_clusters.png)
