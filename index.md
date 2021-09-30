@@ -1,6 +1,15 @@
 # Projects
-## [Image Classification of Tumors in Mammograms](https://github.com/ebsiegs/tumor_image_classification.git)
+
+## [Starbucks Customer Segmentation using K-Means Clustering](/projects/starbucks_customer_segmentation.md)
+*This project utilizes K-Means cluster analysis for customer segmentation and targeted marketing outreach for Starbucks.*
+[Full Project Repo on GitHub](https://github.com/ebsiegs/starbucks_customer_segmentation)
+
+![clusters](images/customer_segments.png)
+
+## [Image Classification of Tumors in Mammograms](/projects/tumor_classification.md)
 *For this group project, my collaborators and I utilized convolutional neural networks to build multiple Breast Cancer tumor detection models from two different mammogram datasets.*
+[Full Project Repo on GitHub](https://github.com/ebsiegs/tumor_image_classification)
+
 ![ddsm_model](images/ddsm_model.png)
 
 ## [Classifying Passive vs. Active Revenge in Related Subreddits using NLP](https://ebsiegs.medium.com/text-classification-of-revenge-related-subreddits-using-nlp-f96847ff4acf)
