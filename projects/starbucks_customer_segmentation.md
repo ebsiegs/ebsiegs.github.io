@@ -20,6 +20,7 @@ Customer segmentation is the process of dividing customers into groups based on 
 This notebook gives an overview of the project, data cleaning of each of the 3 datasets, and initial exporatory data analysis (EDA).
 
 ![membership_month_year](projects/starbucks_customer_segmentation/membership_month_year.png)
+![membership_month_year](https://user-images.githubusercontent.com/84358989/135367599-746d3240-a5b1-47a1-a4b3-325b59f5478e.png)
 
 ### Part 2: Dataset Merging & RFM Metrics
 
