@@ -12,13 +12,13 @@
 
 ![ddsm_model](images/ddsm_model.png)
 
-## [Classifying Passive vs. Active Revenge in Related Subreddits using NLP](/projects/subreddit_nlp.md)
+## [Classifying Passive vs. Active Revenge in Related Subreddits using NLP](https://ebsiegs.medium.com/text-classification-of-revenge-related-subreddits-using-nlp-f96847ff4acf)
 *This project uses and evaluates a variety of classification models including Logistic Regression, regularized Lasso Logistic Regression, Random Forest, and Multinomial Naïve Bayes in order to model the distinction between active and passive revenge in the related subreddits: r/MaliciousCompliance, r/ProRevenge, and r/pettyrevenge.*
 [Full Project Repo on GitHub](https://github.com/ebsiegs/subreddit_nlp.git)
 
 ![common words](images/common_words.jpg)
 
-## [Predicting Ames, Iowa Real Estate Prices with Linear Regression](/projects/housing_price_prediction.md)
+## [Predicting Ames, Iowa Real Estate Prices with Linear Regression](https://ebsiegs.medium.com/tackling-a-home-price-prediction-regression-problem-b328ad348022)
 *In this project I built a regression model that predicts home sale prices in Ames, Iowa given an input file with 80 columns of different home features and about 2,050 homes. I set out to try and identify what those major factors are for homes on the market in Ames, in addition to predicting Sale Price for those homes.*
 [Full Project Repo on GitHub](https://github.com/ebsiegs/housing_price_prediction)
 
